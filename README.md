@@ -13,9 +13,7 @@ This project covers the entire machine learning workflow:
   * **Data Cleaning and Preprocessing**: Handling missing values, encoding categorical features, and scaling numerical features.
   * **Exploratory Data Analysis (EDA)**: Visualizing the data to understand the relationships between different features and the target variable (salary).
   * **Model Training**: Training several regression models to find the best performing one.
-  * **Model Evaluation**: Evaluating the models using metrics like Mean Absolute Error (MAE) and R-squared.
-  * **Deployment**: Deploying the best model as a simple web application using Streamlit.
-
+  * **Model Evaluation**: Evaluating the models using metrics like Accuracy Score , F1 Score , Precision etc...
 -----
 
 ## 💾 Dataset
