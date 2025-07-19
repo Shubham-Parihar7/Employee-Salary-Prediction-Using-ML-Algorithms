@@ -56,8 +56,3 @@ Contributions to this project are welcome\! If you have any ideas for improvemen
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 -----
-
-## 🙏 Acknowledgments
-
-  * Mention any resources, tutorials, or people you want to thank.
-  * You can also add a link to the original GitHub repository if you forked it.
