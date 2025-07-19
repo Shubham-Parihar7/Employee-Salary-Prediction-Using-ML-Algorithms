@@ -35,11 +35,11 @@ The dataset used for this project should contain information about employees. A 
 
 Several machine learning models were trained and evaluated for this project. The following models are commonly used for regression tasks like salary prediction:
 
-  * **Linear Regression**: A simple and interpretable model.
-  * **Ridge Regression**: A regularized version of linear regression that helps to prevent overfitting.
-  * **Lasso Regression**: Another regularized version of linear regression that can also be used for feature selection.
-  * **Random Forest Regressor**: An ensemble model that often performs well on a variety of tasks.
-  * **Gradient Boosting Regressor**: Another powerful ensemble model.
+  * **Logistiic Regression**
+  * **Random Forest**
+  * **Gradient Boosting**
+  * **XGBoost**
+  * **LightGBMr**
 
 "The LightGBM was chosen as the final model due to its high accuracy and robustness."
 
