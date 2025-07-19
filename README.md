@@ -1,6 +1,6 @@
 # Employee-Salary-Prediction-Using-ML-Algorithms
 
-This project predicts employee salaries using various machine learning algorithms. The model is trained on a dataset containing employee information and then deployed as a web application using Streamlit.
+This project predicts employee salaries using various machine learning algorithms. The model is trained on a dataset containing employee information.
 
 -----
 
